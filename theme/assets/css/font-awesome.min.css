@@ -27,6 +27,7 @@
 .fa-music:before{content:"\f001"}
 .fa-search:before{content:"\f002"}
 .fa-envelope-o:before{content:"\f003"}
+.fa-heart:before{content:"\f004"}
 .fa-star:before{content:"\f005"}
 .fa-star-o:before{content:"\f006"}
 .fa-user:before{content:"\f007"}
@@ -158,6 +159,7 @@
 .fa-thumb-tack:before{content:"\f08d"}
 .fa-external-link:before{content:"\f08e"}
 .fa-sign-in:before{content:"\f090"}
+.fa-trophy:before{content:"\f091"}
 .fa-github-square:before{content:"\f092"}
 .fa-upload:before{content:"\f093"}
 .fa-lemon-o:before{content:"\f094"}
@@ -258,13 +260,13 @@
 .fa-angle-up:before{content:"\f106"}
 .fa-angle-down:before{content:"\f107"}
 .fa-desktop:before{content:"\f108"}
+.fa-laptop:before{content:"\f109"}
 .fa-tablet:before{content:"\f10a"}
 .fa-mobile-phone:before,.fa-mobile:before{content:"\f10b"}
 .fa-circle-o:before{content:"\f10c"}
 .fa-quote-left:before{content:"\f10d"}
 .fa-quote-right:before{content:"\f10e"}
 .fa-spinner:before{content:"\f110"}
-.fa-circle:before{content:"\f111"}
 .fa-mail-reply:before,.fa-reply:before{content:"\f112"}
 .fa-github-alt:before{content:"\f113"}
 .fa-folder-o:before{content:"\f114"}
