@@ -1,0 +1,126 @@
+body {
+
+	background-image: url("http://orig11.deviantart.net/83c2/f/2012/078/e/0/demon_cow_by_demoncowplz-d4t8phj.jpg");
+    background-size: cover;
+    background-position: center center;
+	font-family: monospace;
+}
+#one{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+  margin: 200px;
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  position: absolute;
+}
+#two{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+  margin: 200px;
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  position: absolute;
+}
+#three{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+  margin: 400px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#four{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+  margin: 400px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#five{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+  margin: 600px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#six{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+margin: 600px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#seven{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+margin: 800px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#eight{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+margin: 800px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#nein{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+margin: 1000px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+#ten{
+background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
+margin: 1000px;
+   width: 200px;
+   height: 200px;
+   background-size: 200px 200px;
+   position: absolute;
+}
+
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color: #fff;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+.button {
+	border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #abc;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+	background-image: url("http://www.firstlightfoods.co.nz/sites/default/files/styles/page_image/public/RECIPES.jpg");
+	background-position: bottom center;
+
+}
